@@ -12,6 +12,7 @@ namespace Encapsulation
         {
             Console.WriteLine("beats ");
             Console.WriteLine("this is to change the contents for github learning11");
+            Console.Writeline("changes for encapsulation branch plz do it properly");
         }
         public void Contract()
         {
